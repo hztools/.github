@@ -1,3 +1,6 @@
+> [!WARNING]
+> Most of this code has been migrated off github and this org. You can still see the latest on my blog/microblogs
+
 # hz.tools
 
 Hello! You've found [@paultag](https://github.com/paultag)'s radio code!
